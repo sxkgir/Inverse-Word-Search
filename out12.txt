@@ -1,0 +1,16 @@
+Board:
+  abaardvarktilde
+  amountduolilith
+  aboreurtillicit
+Board:
+  aboreurtillicit
+  amountduolilith
+  abaardvarktilde
+Board:
+  edlitkravdraaba
+  htililoudtnuoma
+  ticillitrueroba
+Board:
+  ticillitrueroba
+  htililoudtnuoma
+  edlitkravdraaba

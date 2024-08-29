@@ -1,0 +1,112 @@
+Board:
+  anchore
+  elttobl
+  oesroha
+  beaches
+  oeeleme
+  wobbler
+Board:
+  anchore
+  lbottle
+  ahorseo
+  sehcaeb
+  emeleeo
+  relbbow
+Board:
+  anchore
+  relbbow
+  emeleeo
+  sehcaeb
+  ahorseo
+  lbottle
+Board:
+  anchore
+  wobbler
+  oeeleme
+  beaches
+  oesroha
+  elttobl
+Board:
+  elttobl
+  oesroha
+  beaches
+  oeeleme
+  wobbler
+  anchore
+Board:
+  elttobl
+  oesroha
+  beaches
+  oeeleme
+  wobbler
+  erohcna
+Board:
+  erohcna
+  elttobl
+  oesroha
+  beaches
+  oeeleme
+  wobbler
+Board:
+  erohcna
+  lbottle
+  ahorseo
+  sehcaeb
+  emeleeo
+  relbbow
+Board:
+  erohcna
+  relbbow
+  emeleeo
+  sehcaeb
+  ahorseo
+  lbottle
+Board:
+  erohcna
+  wobbler
+  oeeleme
+  beaches
+  oesroha
+  elttobl
+Board:
+  lbottle
+  ahorseo
+  sehcaeb
+  emeleeo
+  relbbow
+  anchore
+Board:
+  lbottle
+  ahorseo
+  sehcaeb
+  emeleeo
+  relbbow
+  erohcna
+Board:
+  relbbow
+  emeleeo
+  sehcaeb
+  ahorseo
+  lbottle
+  anchore
+Board:
+  relbbow
+  emeleeo
+  sehcaeb
+  ahorseo
+  lbottle
+  erohcna
+Board:
+  wobbler
+  oeeleme
+  beaches
+  oesroha
+  elttobl
+  anchore
+Board:
+  wobbler
+  oeeleme
+  beaches
+  oesroha
+  elttobl
+  erohcna

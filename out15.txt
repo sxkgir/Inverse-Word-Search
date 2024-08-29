@@ -1,0 +1,24 @@
+Board:
+  fieryhuman
+  incredible
+  patronship
+  aeshapesea
+  reasemennl
+Board:
+  lnnemesaer
+  aesepahsea
+  pihsnortap
+  elbidercni
+  namuhyreif
+Board:
+  namuhyreif
+  elbidercni
+  pihsnortap
+  aesepahsea
+  lnnemesaer
+Board:
+  reasemennl
+  aeshapesea
+  patronship
+  incredible
+  fieryhuman

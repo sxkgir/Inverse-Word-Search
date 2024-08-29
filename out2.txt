@@ -1,0 +1,535 @@
+baker
+.  .  .  .  .  
+.  .  .  .  .  
+.  .  .  .  .  
+echo
+b  a  k  e  r  
+.  .  .  .  .  
+.  .  .  .  .  
+apt
+b  a  k  e  r  
+e  c  h  o  .  
+.  .  .  .  .  
+toe
+b  a  k  e  r  
+e  c  h  o  .  
+a  p  t  .  .  
+ore
+b  a  k  e  r  
+e  c  h  o  .  
+a  p  t  o  e  
+ore
+b  a  k  e  r  
+e  c  h  o  .  
+a  p  t  t  .  
+toe
+b  a  k  e  r  
+e  c  h  o  .  
+.  a  p  t  .  
+ore
+b  a  k  e  r  
+e  c  h  o  .  
+.  a  p  t  .  
+toe
+b  a  k  e  r  
+e  c  h  o  .  
+.  .  a  p  t  
+toe
+b  a  k  e  r  
+e  c  h  o  .  
+t  p  a  .  .  
+ore
+b  a  k  e  r  
+e  c  h  o  .  
+t  p  a  t  .  
+apt
+b  a  k  e  r  
+.  e  c  h  o  
+.  .  .  .  .  
+toe
+b  a  k  e  r  
+.  e  c  h  o  
+a  p  t  .  .  
+ore
+b  a  k  e  r  
+.  e  c  h  o  
+a  p  t  o  e  
+toe
+b  a  k  e  r  
+.  e  c  h  o  
+.  a  p  t  .  
+toe
+b  a  k  e  r  
+.  e  c  h  o  
+.  .  a  p  t  
+toe
+b  a  k  e  r  
+.  e  c  h  o  
+t  p  a  .  .  
+apt
+b  a  k  e  r  
+o  h  c  e  .  
+.  .  .  .  .  
+toe
+b  a  k  e  r  
+o  h  c  e  .  
+a  p  t  .  .  
+ore
+b  a  k  e  r  
+o  h  c  e  .  
+a  p  t  o  e  
+toe
+b  a  k  e  r  
+o  h  c  e  .  
+.  a  p  t  .  
+toe
+b  a  k  e  r  
+o  h  c  e  .  
+.  .  a  p  t  
+toe
+b  a  k  e  r  
+o  h  c  e  .  
+t  p  a  .  .  
+apt
+b  a  k  e  r  
+.  .  .  .  .  
+e  c  h  o  .  
+toe
+b  a  k  e  r  
+a  p  t  .  .  
+e  c  h  o  .  
+ore
+b  a  k  e  r  
+a  p  t  o  e  
+e  c  h  o  .  
+toe
+b  a  k  e  r  
+.  a  p  t  .  
+e  c  h  o  .  
+toe
+b  a  k  e  r  
+.  .  a  p  t  
+e  c  h  o  .  
+toe
+b  a  k  e  r  
+t  p  a  .  .  
+e  c  h  o  .  
+apt
+b  a  k  e  r  
+.  .  .  .  .  
+.  e  c  h  o  
+toe
+b  a  k  e  r  
+a  p  t  .  .  
+.  e  c  h  o  
+ore
+b  a  k  e  r  
+a  p  t  o  e  
+.  e  c  h  o  
+toe
+b  a  k  e  r  
+.  a  p  t  .  
+.  e  c  h  o  
+toe
+b  a  k  e  r  
+.  .  a  p  t  
+.  e  c  h  o  
+toe
+b  a  k  e  r  
+t  p  a  .  .  
+.  e  c  h  o  
+apt
+b  a  k  e  r  
+.  .  .  .  .  
+o  h  c  e  .  
+toe
+b  a  k  e  r  
+a  p  t  .  .  
+o  h  c  e  .  
+ore
+b  a  k  e  r  
+a  p  t  o  e  
+o  h  c  e  .  
+toe
+b  a  k  e  r  
+.  a  p  t  .  
+o  h  c  e  .  
+toe
+b  a  k  e  r  
+.  .  a  p  t  
+o  h  c  e  .  
+toe
+b  a  k  e  r  
+t  p  a  .  .  
+o  h  c  e  .  
+echo
+.  .  .  .  .  
+b  a  k  e  r  
+.  .  .  .  .  
+apt
+e  c  h  o  .  
+b  a  k  e  r  
+.  .  .  .  .  
+toe
+e  c  h  o  .  
+b  a  k  e  r  
+a  p  t  .  .  
+ore
+e  c  h  o  .  
+b  a  k  e  r  
+a  p  t  o  e  
+eat
+e  c  h  o  o  
+b  a  k  e  r  
+a  p  t  o  e  
+cap
+e  c  h  o  o  
+b  a  k  e  r  
+a  p  t  o  e  
+e  c  h  o  o  
+b  a  k  e  r  
+a  p  t  o  e  
+toe
+e  c  h  o  .  
+b  a  k  e  r  
+.  a  p  t  .  
+toe
+e  c  h  o  .  
+b  a  k  e  r  
+.  .  a  p  t  
+toe
+e  c  h  o  .  
+b  a  k  e  r  
+t  p  a  .  .  
+apt
+.  e  c  h  o  
+b  a  k  e  r  
+.  .  .  .  .  
+toe
+.  e  c  h  o  
+b  a  k  e  r  
+a  p  t  .  .  
+ore
+.  e  c  h  o  
+b  a  k  e  r  
+a  p  t  o  e  
+eat
+.  e  c  h  o  
+b  a  k  e  r  
+a  p  t  o  e  
+cap
+e  e  c  h  o  
+b  a  k  e  r  
+a  p  t  o  e  
+toe
+.  e  c  h  o  
+b  a  k  e  r  
+.  a  p  t  .  
+toe
+.  e  c  h  o  
+b  a  k  e  r  
+.  .  a  p  t  
+toe
+.  e  c  h  o  
+b  a  k  e  r  
+t  p  a  .  .  
+apt
+o  h  c  e  .  
+b  a  k  e  r  
+.  .  .  .  .  
+toe
+o  h  c  e  .  
+b  a  k  e  r  
+a  p  t  .  .  
+ore
+o  h  c  e  .  
+b  a  k  e  r  
+a  p  t  o  e  
+eat
+o  h  c  e  o  
+b  a  k  e  r  
+a  p  t  o  e  
+toe
+o  h  c  e  .  
+b  a  k  e  r  
+.  a  p  t  .  
+toe
+o  h  c  e  .  
+b  a  k  e  r  
+.  .  a  p  t  
+toe
+o  h  c  e  .  
+b  a  k  e  r  
+t  p  a  .  .  
+apt
+.  .  .  .  .  
+b  a  k  e  r  
+e  c  h  o  .  
+toe
+a  p  t  .  .  
+b  a  k  e  r  
+e  c  h  o  .  
+ore
+a  p  t  o  e  
+b  a  k  e  r  
+e  c  h  o  .  
+eat
+a  p  t  o  e  
+b  a  k  e  r  
+e  c  h  o  o  
+cap
+a  p  t  o  e  
+b  a  k  e  r  
+e  c  h  o  o  
+a  p  t  o  e  
+b  a  k  e  r  
+e  c  h  o  o  
+toe
+.  a  p  t  .  
+b  a  k  e  r  
+e  c  h  o  .  
+toe
+.  .  a  p  t  
+b  a  k  e  r  
+e  c  h  o  .  
+toe
+t  p  a  .  .  
+b  a  k  e  r  
+e  c  h  o  .  
+apt
+.  .  .  .  .  
+b  a  k  e  r  
+.  e  c  h  o  
+toe
+a  p  t  .  .  
+b  a  k  e  r  
+.  e  c  h  o  
+ore
+a  p  t  o  e  
+b  a  k  e  r  
+.  e  c  h  o  
+eat
+a  p  t  o  e  
+b  a  k  e  r  
+.  e  c  h  o  
+cap
+a  p  t  o  e  
+b  a  k  e  r  
+e  e  c  h  o  
+toe
+.  a  p  t  .  
+b  a  k  e  r  
+.  e  c  h  o  
+toe
+.  .  a  p  t  
+b  a  k  e  r  
+.  e  c  h  o  
+toe
+t  p  a  .  .  
+b  a  k  e  r  
+.  e  c  h  o  
+apt
+.  .  .  .  .  
+b  a  k  e  r  
+o  h  c  e  .  
+toe
+a  p  t  .  .  
+b  a  k  e  r  
+o  h  c  e  .  
+ore
+a  p  t  o  e  
+b  a  k  e  r  
+o  h  c  e  .  
+eat
+a  p  t  o  e  
+b  a  k  e  r  
+o  h  c  e  o  
+toe
+.  a  p  t  .  
+b  a  k  e  r  
+o  h  c  e  .  
+toe
+.  .  a  p  t  
+b  a  k  e  r  
+o  h  c  e  .  
+toe
+t  p  a  .  .  
+b  a  k  e  r  
+o  h  c  e  .  
+echo
+.  .  .  .  .  
+.  .  .  .  .  
+b  a  k  e  r  
+apt
+e  c  h  o  .  
+.  .  .  .  .  
+b  a  k  e  r  
+toe
+e  c  h  o  .  
+a  p  t  .  .  
+b  a  k  e  r  
+ore
+e  c  h  o  .  
+a  p  t  o  e  
+b  a  k  e  r  
+toe
+e  c  h  o  .  
+.  a  p  t  .  
+b  a  k  e  r  
+toe
+e  c  h  o  .  
+.  .  a  p  t  
+b  a  k  e  r  
+toe
+e  c  h  o  .  
+t  p  a  .  .  
+b  a  k  e  r  
+apt
+.  e  c  h  o  
+.  .  .  .  .  
+b  a  k  e  r  
+toe
+.  e  c  h  o  
+a  p  t  .  .  
+b  a  k  e  r  
+ore
+.  e  c  h  o  
+a  p  t  o  e  
+b  a  k  e  r  
+toe
+.  e  c  h  o  
+.  a  p  t  .  
+b  a  k  e  r  
+toe
+.  e  c  h  o  
+.  .  a  p  t  
+b  a  k  e  r  
+toe
+.  e  c  h  o  
+t  p  a  .  .  
+b  a  k  e  r  
+apt
+o  h  c  e  .  
+.  .  .  .  .  
+b  a  k  e  r  
+toe
+o  h  c  e  .  
+a  p  t  .  .  
+b  a  k  e  r  
+ore
+o  h  c  e  .  
+a  p  t  o  e  
+b  a  k  e  r  
+toe
+o  h  c  e  .  
+.  a  p  t  .  
+b  a  k  e  r  
+toe
+o  h  c  e  .  
+.  .  a  p  t  
+b  a  k  e  r  
+toe
+o  h  c  e  .  
+t  p  a  .  .  
+b  a  k  e  r  
+apt
+.  .  .  .  .  
+e  c  h  o  .  
+b  a  k  e  r  
+toe
+a  p  t  .  .  
+e  c  h  o  .  
+b  a  k  e  r  
+ore
+a  p  t  o  e  
+e  c  h  o  .  
+b  a  k  e  r  
+ore
+a  p  t  t  .  
+e  c  h  o  .  
+b  a  k  e  r  
+toe
+.  a  p  t  .  
+e  c  h  o  .  
+b  a  k  e  r  
+ore
+.  a  p  t  .  
+e  c  h  o  .  
+b  a  k  e  r  
+toe
+.  .  a  p  t  
+e  c  h  o  .  
+b  a  k  e  r  
+toe
+t  p  a  .  .  
+e  c  h  o  .  
+b  a  k  e  r  
+ore
+t  p  a  t  .  
+e  c  h  o  .  
+b  a  k  e  r  
+apt
+.  .  .  .  .  
+.  e  c  h  o  
+b  a  k  e  r  
+toe
+a  p  t  .  .  
+.  e  c  h  o  
+b  a  k  e  r  
+ore
+a  p  t  o  e  
+.  e  c  h  o  
+b  a  k  e  r  
+toe
+.  a  p  t  .  
+.  e  c  h  o  
+b  a  k  e  r  
+toe
+.  .  a  p  t  
+.  e  c  h  o  
+b  a  k  e  r  
+toe
+t  p  a  .  .  
+.  e  c  h  o  
+b  a  k  e  r  
+apt
+.  .  .  .  .  
+o  h  c  e  .  
+b  a  k  e  r  
+toe
+a  p  t  .  .  
+o  h  c  e  .  
+b  a  k  e  r  
+ore
+a  p  t  o  e  
+o  h  c  e  .  
+b  a  k  e  r  
+toe
+.  a  p  t  .  
+o  h  c  e  .  
+b  a  k  e  r  
+toe
+.  .  a  p  t  
+o  h  c  e  .  
+b  a  k  e  r  
+toe
+t  p  a  .  .  
+o  h  c  e  .  
+b  a  k  e  r  
+4 solution(s)
+Board:
+aptoe
+baker
+echoo
+Board:
+echoo
+baker
+aptoe
+Board:
+eotpa
+rekab
+oohce
+Board:
+oohce
+rekab
+eotpa
